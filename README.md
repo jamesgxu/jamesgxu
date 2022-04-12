@@ -1,4 +1,4 @@
-###### **Hi! My name is James Xu and I am a freshman attending University of Caifornia, Irvine.**
+## **Hi! My name is James Xu and I am a freshman attending University of Caifornia, Irvine.**
 
 I am currently studying computer science at the Donald Bren School of Information and Computer Sciences at UCI.
 I have experience coding in Java, Python, and C++. Find me on [**LinkedIn**](www.linkedin.com/in/jamesgxu)
